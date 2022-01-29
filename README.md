@@ -1,2 +1,3 @@
 # my-project
-this is a Rating app that im making.
+hey there!
+this app is  a Rating app that im making.
